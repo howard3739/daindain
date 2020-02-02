@@ -77,6 +77,10 @@ section h1 {
     margin: 0 auto;
 }
 
+#news img {
+    width: 100%;
+}
+
 #partner li {
     margin-left: 20px;
     padding: 10px 0;
